@@ -12,6 +12,138 @@ Proficient code contributor with a commitment to best practices, code readabilit
 
 An ego free problem solver with a love for constructive criticism and champion of the best solutions the data can support.
 
+
+# Technical Summary
+
+## Backend
+
+* PHP
+* Node.js
+* Express
+* SQL
+* MySQL
+* NoSQL 
+* GraphQL
+* Machine Learning 
+* Computer Vision
+* REST APIs
+* SOAP APIs
+* JSON
+* XML
+* XSLT
+
+## Frontend
+
+* HTML
+  * Video and Audio
+  * Device Orientation API
+  * GeoLocation API
+  * SVG
+  * Canvas
+  * WebSockets
+* CSS 
+  * SASS
+  * Stylus
+  * Bootstrap
+  * Compass
+  * Foundation
+  * BEM
+  * CSS Variables
+  * CSS Animations
+  * CSS Transforms
+  * 3D CSS
+* JavaScript
+  * es2015+
+  * Single Page Application Frameworks
+    * Angular
+    * React
+    * Vue
+    * Gatsby
+    * Redux
+  * Vanilla JS
+    * DOM Manipulation
+    * Events
+    * Animation
+  * GreenSock Animation Platform (GSAP)
+  * jQuery
+* Template Engines
+  * Timber
+  * JSX
+  * Handlebars
+  * Blade
+  * Markdown
+  * Liquid
+
+## Tooling
+
+* Webpack
+* Babel
+* Git
+* GitHub 
+* BitBucket
+* Terminal
+* SubVersion
+* NPM
+* Yarn
+* Composer
+* Gulp / Grunt
+
+## DevOps
+
+* AWS
+  * EC2 
+  * S3 
+  * CloudFront CDN
+  * Route 53 DNS
+  * Elastic Transcoder 
+  * Elasticsearch 
+  * Lambda
+  * DynamoDB
+  * AWS CLI
+  * Redshift
+* GCP 
+  * Cloud Storage
+  * GCP CLI
+  * Cloud Firestore 
+  * Cloud Functions
+* Docker
+* Bash
+* PowerShell
+* AppleScript
+* SSH
+* Continuous Integration 
+  * CircleCI
+  * TravisCI
+  * Jenkins
+
+## CMS
+
+* WordPress
+  * Theme Development
+  * Plugin Development
+  * Advanced Custom Fields (ACF)
+  * WordPress Multilingual (WPML)
+  * Gravity Forms
+  * Gutenberg
+  * WooCommerce
+  * Yoast
+* Sanity.io
+* Adobe Experience Manager (AEM)
+* Jekyll
+* Shopify
+* Custom Enterprise CMS
+
+## Creative
+
+* Adobe CS
+  * Photoshop 
+  * Illustrator 
+  * After Effects 
+  * Premiere
+* inVision 
+* Sketch
+
+
 ## FreshBooks
 March 2020 - September 2020
 ### Team Lead: Website Development
