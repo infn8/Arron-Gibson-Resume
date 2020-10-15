@@ -144,6 +144,25 @@ An ego free problem solver with a love for constructive criticism and champion o
 * Sketch
 
 
+
+# Managerial Summary
+
+* Team Leadership
+* Code Reviews
+* Code Optimization
+* Weekly 1:1 Meetings
+* Documentation & Reporting
+* Requirements Gathering
+* Issue Resolution
+* Stakeholder Management
+* Client Relationship Management
+* Agile Methodology
+* Project Management
+  * Confluence
+  * Jira
+  * SEO
+  * Trello
+  * Asana
 ## FreshBooks
 March 2020 - September 2020
 ### Team Lead: Website Development
