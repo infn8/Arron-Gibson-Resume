@@ -163,6 +163,10 @@ An ego free problem solver with a love for constructive criticism and champion o
   * SEO
   * Trello
   * Asana
+
+
+# Professional Experience
+
 ## FreshBooks
 March 2020 - September 2020
 ### Team Lead: Website Development
@@ -222,3 +226,13 @@ Lead the [VUSR Publisher](https://www.vusr.co/) team through implementation and 
 * Machine Learning / Computer Vision
 * NoSQL 
 * Jenkins
+
+## Critical Mass
+August 2018 - November 2018
+### React Developer
+
+Worked with a talented team of React developers on implementing the global design system for Mitsubishi's worldwide auto markets.
+
+### Responsibilities and Achievements
+
+Responsible for clean, documented and unit tested code.  Created React components that had 100% code coverage on tests, included scoped styles and were published as individual packages to a private package repo for use in the living style guide and CMS for the global network of sites for Mitsubishi Motors. Worked with 
