@@ -1,4 +1,16 @@
-# Career History
+# Profile
+
+Digital leader and mentor with close to 20 years of Full Stack web development experience.
+
+Proven track record of delivering performant scalable web applications that exceed expectations, delight users and streamline internal workflows.
+
+Lifetime learner who makes time to assist the growth and understanding of teammates and customers.
+
+Detail oriented leader employing a framework of relationship building via 1:1 meetings and frequent judgment-free feedback to provide course correction opportunities for direct reports to excel in their positions and grow their careers.
+
+Proficient code contributor with a commitment to best practices, code readability, testing and documentation whether in legacy code or cutting edge frameworks.
+
+An ego free problem solver with a love for constructive criticism and champion of the best solutions the data can support.
 
 ## FreshBooks
 March 2020 - September 2020
