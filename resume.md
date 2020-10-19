@@ -180,7 +180,10 @@ Lead the Website Development team through the formative phase of a full website 
 
 ### Achievements
 
-Responsible for the career growth and mentorship of 3-5 developers and QA analysts. Oversight of scheduled and upcoming work for team.  Technical architecture of systems and deployment pipelines. Re-engineering legacy systems. Hosting weekly trivia during COVID-19 pandemic for team morale.
+* Managed a team of 3-5 developers and QA analysts through a total platform rebuild and redesign **TODO: END RESULT** providing mentorship and career growth opportunities in the process.
+* Engineered replacement for legacy campaign scheduling system allowing for consolidated control of messaging across multiple properties and direct stakeholder control eliminating hours of PM and dev work for every campaign.
+* Implemented new modular approach to CMS usage allowing for superior encapsulation of data and metadata and improved internationalization and translation workflows allowing for the expansion into additional global markets.
+* Organized and hosted weekly trivia sessions during COVID-19 pandemic, boosting team morale and cohesion.
 
 ### Tools and Technologies
 
