@@ -252,4 +252,29 @@ Worked with a talented team of React developers on implementing the global desig
 * Developed and documented improved workflows for using lifecycle hooks when testing components allowing for improved developer throughput and higher test coverage.
 * Engineered improved solution for handling SVG icons in the existing codebase allowing for increased theming options, inlining of styles for higher portability and inline data URL generation to increase end user performance and decrease network calls.
 
+## Hill + Knowlton Strategies
+January 2018 - June 2018
+### Full Stack Web Developer
 
+International public relations company with over 80 offices around the world.
+
+### Achievements
+
+* Developed performant and accessible campaign sites for political and advocacy organizations allowing clients to effectively reach their intended audiences
+* Crafted fully CMS controlled responsive UI components with stunning look and feel allowing non technical users to build advanced page design structures
+* Communicated directly with clients and stakeholders to plan and implement project details ensuring on time deliverables that meet and exceed expectations.
+
+
+## Bank of Montreal
+January 2017 - December 2017
+### Full Stack Web Developer
+
+Worked on the marketing team delivering the public sites of BMO.com and BMOHarris.com.
+
+### Achievements
+
+* Advanced a flat file generator that uses Vagrant, Node.js, Harp, SASS, ES6 Babel and Webpack reducing ongoing dependency on legacy systems and massively improving developer throughput.
+* Led efforts to deliver machine learning targeted ads to users from an in-house API by creating an event based javascript framework allowing multiple stakeholders to listen to or modify any part of the processing chain altering behaviour as needed, on a case-by-case basis, all delivered in a 13Kb minified and gzipped file. 
+* Mentored and coached teammates through the adoption of ES6 and ESNext by running weekly coding exercises and lessons allowing developers to increase their skills and better contribute to newer systems being introduced.
+* Developed an script that allowed for the simultaneous update of text across the entire network of sites and legacy codebases saving thousands of developer hours that would otherwise would have to had been used to implement a contractually obliged text change that existed over 17 thousand times on one site alone.
+* Held the top spot on the internal [heytaco.chat](https://www.heytaco.chat/) leaderboard, indicating that the team values the ongoing support and timely answers consistently provided over Slack.
