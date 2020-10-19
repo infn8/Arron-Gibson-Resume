@@ -20,6 +20,8 @@ An ego free problem solver with a love for constructive criticism and champion o
 * PHP
 * Node.js
 * Express
+* Apache
+* NGINX
 * SQL
 * MySQL
 * NoSQL 
@@ -53,7 +55,9 @@ An ego free problem solver with a love for constructive criticism and champion o
   * CSS Transforms
   * 3D CSS
 * JavaScript
-  * es2015+
+  * es5
+  * es6
+  * esNext
   * Single Page Application Frameworks
     * Angular
     * React
@@ -86,7 +90,8 @@ An ego free problem solver with a love for constructive criticism and champion o
 * NPM
 * Yarn
 * Composer
-* Gulp / Grunt
+* Gulp
+* Grunt
 
 ## DevOps
 
