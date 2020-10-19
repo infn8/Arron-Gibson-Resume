@@ -312,3 +312,18 @@ Specialized in efficient cross-browser compatible code while working on a team r
 * Developed and maintained a common site header ensuring browser compatibility and lack of adverse effects across the whole network of 20+ broadcast property sites.
 * Led the project to create the first ever version of GlobalNews.ca giving a team of journalists across Canada a suite of digital tools to report on breaking news both national and local across  a network of 13 markets coast to coast, using an in-house built legacy CMS, The project was delivered on time and on budget despite a deficit of 850+ developer hours actually allocated compared to what was scoped.
 
+## Infinity Media Services
+2002 – Present
+### President & CTO
+
+Founded and ran a full service web development agency 
+
+### Achievements
+
+* Executed all aspects of the business save for Visual Design and Bookkeeping. 
+* Developed websites for businesses ranging from mom-and-pop shops to large-scale corporations executing on time and on budget.
+* Engineered a real-time multi-person responsive trivia game using React and Firebase allowing lawyers to hone their knowledge and qualify for mandated ongoing legal training.
+* Created a magazine layout plugin that can wrap live text around non-square images with transparency allowing for layouts years ago that are only possible now with cutting edge css and limited browser support.
+* Consulted on behalf of clients working with other agencies ensuring that they understand the scope, nature and value of the work.
+* Built high performance animations with multiply blend mode that work as far back as IE 8 while still using Canvas for modern browsers. 
+* Delivered consistent high quality work that surprises and delights clients going well beyond their expectations.
