@@ -278,3 +278,23 @@ Worked on the marketing team delivering the public sites of BMO.com and BMOHarri
 * Mentored and coached teammates through the adoption of ES6 and ESNext by running weekly coding exercises and lessons allowing developers to increase their skills and better contribute to newer systems being introduced.
 * Developed an script that allowed for the simultaneous update of text across the entire network of sites and legacy codebases saving thousands of developer hours that would otherwise would have to had been used to implement a contractually obliged text change that existed over 17 thousand times on one site alone.
 * Held the top spot on the internal [heytaco.chat](https://www.heytaco.chat/) leaderboard, indicating that the team values the ongoing support and timely answers consistently provided over Slack.
+
+## Viva & Co.
+May 2014 - December 2016
+### Director of Digital Projects
+
+An award winning branding and creative agency.
+
+### Achievements
+
+* Led the first fully digital arm of the company, spearheading initiatives & processes still in place today that allowed the company to expand their offerings well beyond what existed before.
+* Created a proof of concept iPad app version of the Le Creuset catalogue allowing for interactive content and simple tap to order functionality.
+* Managed the day-to-day IT needs of an entire office of designers and developers centralizing and backing up offsite years of accumulated design and product files
+* Streamlined digital file collaboration using modern tool sets that allow for tracked revisions, client feedback and collaborations
+* Developed a crowd sourced event booking platform used to help organize [One Billion Rising](https://www.onebillionrising.org/events), the biggest mass action to end violence against women in human history
+* Administered, maintained and executed the domain registrations, DNS, CDN and hosting setups for a large variety of clients both large and small in scale allowing them to relax and focus on their own businesses.
+* Spearheaded the creation of a optional support contracts for digital products developed in-house, creating a separate and significant ongoing monthly revenue stream for the studio.
+* Crafted highly customized CMS setups that allow clients to do everything from art directing responsive image crops to producing complex internal usage reports and graphs to generating highly compelling case studies of their own work.
+* Created 3D CSS showcase tissue box designs by taking the packaging file used to print the physical boxes and “folding” them in 3D space to generate the same visual effect on the website giving visitors a 360 degree view of the product before purchase.
+* Animated illustrations for The New Yorker Magazine and New York’s Metro Transit Authority, providing dynamic versions of cover art and marketing materials culminating in a full [takeover of multiple video screens in Fulton Center](https://vivaandco.com/work/mta/) for a one day event by the Poetry Society o America.
+
