@@ -247,4 +247,9 @@ Worked with a talented team of React developers on implementing the global desig
 
 ### Achievements
 
-Responsible for clean, documented and unit tested code.  Created React components that had 100% code coverage on tests, included scoped styles and were published as individual packages to a private package repo for use in the living style guide and CMS for the global network of sites for Mitsubishi Motors. Worked with 
+* Developed clean, documented and unit tested code allowing for easy collaboration on components between developers
+* Crafted React components that had 100% code coverage on tests, included scoped styles and were published as individual packages to a private package management service allow for their inclusion in the living style guide and CMS for the global network of sites for Mitsubishi Motors. 
+* Developed and documented improved workflows for using lifecycle hooks when testing components allowing for improved developer throughput and higher test coverage.
+* Engineered improved solution for handling SVG icons in the existing codebase allowing for increased theming options, inlining of styles for higher portability and inline data URL generation to increase end user performance and decrease network calls.
+
+
