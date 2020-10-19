@@ -215,7 +215,7 @@ As the Team Lead for the [VUSR Publisher](https://www.vusr.co/) CMS, I was a men
 
 * Oversaw the largest single release of [VUSR Publisher](https://www.vusr.co/) features since initial launch, expanding the platform to serve as CMS for the [HTC Viveport Video](https://www.viveport.com/video.html) store. **TODO: Better action verb**
 * Collaborated on an augmented reality product study with LEGO, designing proof of concept videos and surveys conducted in retail stores measuring the marketability and efficacy of AR tech for the toy company.
-* Developed a prototype machine learning platform on Google Cloud Platform, engineered to streamline generation of branded video content optimized for maximum engagement against the YouTube suggestion algorithm leading to an over 30% increase in views and lowering the cost to produce segments by close to 70%.
+* Developed a prototype machine learning system on Google Cloud Platform, engineered to streamline generation of branded video content optimized for maximum engagement against the YouTube suggestion algorithm leading to an over 30% increase in views and lowering the cost to produce segments by close to 70%.
 * Developed an Adobe Premiere bulk import plugin to ingest hundreds of timelines and years of editing data, allowing for the priming and training of machine learning systems while saving thousands of hours of manual labour re-implementing edits and categorizing clips.
 * Oversaw the successful removal of terabytes of data from legacy systems saving thousands of dollars a month in AWS costs all while maintaining a 99.99% uptime client guarantee.
 
