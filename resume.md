@@ -213,7 +213,11 @@ As the Team Lead for the [VUSR Publisher](https://www.vusr.co/) CMS, I was a men
 
 ### Achievements
 
-Lead the [VUSR Publisher](https://www.vusr.co/) team through implementation and release of the largest single release of CMS features since its initial creation, the expansion of the platform to serve as the CMS for the [HTC Viveport Video](https://www.viveport.com/video.html) platform. Collaborated on an augmented reality product study with LEGO. Co-lead on the team that built a prototype machine learning platform to streamline generation of branded video content optimized for maximum engagement with the YouTube suggestion algorithm. Created an Adobe Premiere bulk import plugin to ingest hundreds of timelines and years of work of editing data for use when priming machine learning systems, saving hundreds of hours of manual labour re-implementing edits and categorization. Oversaw a project that successfully cleaned up terabytes of data from legacy systems saving thousands of dollars a month in AWS costs all while maintaining a 99.999% uptime client guarantee.
+* Oversaw the largest single release of [VUSR Publisher](https://www.vusr.co/) features since initial launch, expanding the platform to serve as CMS for the [HTC Viveport Video](https://www.viveport.com/video.html) store. **TODO: Better action verb**
+* Collaborated on an augmented reality product study with LEGO, designing proof of concept videos and surveys conducted in retail stores measuring the marketability and efficacy of AR tech for the toy company.
+* Developed a prototype machine learning platform on Google Cloud Platform, engineered to streamline generation of branded video content optimized for maximum engagement against the YouTube suggestion algorithm leading to an over 30% increase in views and lowering the cost to produce segments by close to 70%.
+* Developed an Adobe Premiere bulk import plugin to ingest hundreds of timelines and years of editing data, allowing for the priming and training of machine learning systems while saving thousands of hours of manual labour re-implementing edits and categorizing clips.
+* Oversaw the successful removal of terabytes of data from legacy systems saving thousands of dollars a month in AWS costs all while maintaining a 99.99% uptime client guarantee.
 
 ### Tools and Technologies
 
