@@ -298,3 +298,14 @@ An award winning branding and creative agency.
 * Created 3D CSS showcase tissue box designs by taking the packaging file used to print the physical boxes and “folding” them in 3D space to generate the same visual effect on the website giving visitors a 360 degree view of the product before purchase.
 * Animated illustrations for The New Yorker Magazine and New York’s Metro Transit Authority, providing dynamic versions of cover art and marketing materials culminating in a full [takeover of multiple video screens in Fulton Center](https://vivaandco.com/work/mta/) for a one day event by the Poetry Society o America.
 
+## Shaw Media
+October 2008 – May 2014
+### Web Developer
+
+Specialized in efficient cross-browser compatible code while working on a team responsible for the online presence of top Canadian lifestyle brands like The Food Network, HGTV and Global News.
+
+### Achievements
+
+* Created a Contest Engine capable of allowing non-technical users to go from a Photoshop mock to a working, pixel perfect WordPress-based contest microsite in 30 minutes without writing a single line of code, saving over 6 days of developer time per campaign by engineering a system that generates on the fly compiled HTML and CSS and pushes it to an Amazon S3 bucket so that the core EC2 controlled servers can easily auto generate server instances distributed across a load balancer.
+* Conceived, created and led the first internal pre-sales development team dedicated to ensuring the viability of marketed products and services, ensuring that customers are never sold anything that the development team cannot deliver upon.
+* Demonstrated a proof of concept experience for the streaming video line of business by making a websocket driven second screen remote control for YouTube designed to increase customer engagement by providing a classic TV viewing analogue, an effort which took first place in an internal hackathon.
