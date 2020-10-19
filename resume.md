@@ -178,7 +178,7 @@ March 2020 - September 2020
 
 Lead the Website Development team through the formative phase of a full website architecture rebuild.  Oversaw CMS selection to automated testing and everything in between.
 
-### Responsibilities and Achievements
+### Achievements
 
 Responsible for the career growth and mentorship of 3-5 developers and QA analysts. Oversight of scheduled and upcoming work for team.  Technical architecture of systems and deployment pipelines. Re-engineering legacy systems. Hosting weekly trivia during COVID-19 pandemic for team morale.
 
@@ -208,7 +208,7 @@ November 2018 - March 2020
 
 As the Team Lead for the [VUSR Publisher](https://www.vusr.co/) CMS, I was a mentor and lead for a team of very talented front-end, back-end and full-stack developers as we pushed the platform forward with a custom Angular dashboard, in house crafted Node REST API and massively scalable AWS architecture
 
-### Responsibilities and Achievements
+### Achievements
 
 Lead the [VUSR Publisher](https://www.vusr.co/) team through implementation and release of the largest single release of CMS features since its initial creation, the expansion of the platform to serve as the CMS for the [HTC Viveport Video](https://www.viveport.com/video.html) platform. Collaborated on an augmented reality product study with LEGO. Co-lead on the team that built a prototype machine learning platform to streamline generation of branded video content optimized for maximum engagement with the YouTube suggestion algorithm. Created an Adobe Premiere bulk import plugin to ingest hundreds of timelines and years of work of editing data for use when priming machine learning systems, saving hundreds of hours of manual labour re-implementing edits and categorization. Oversaw a project that successfully cleaned up terabytes of data from legacy systems saving thousands of dollars a month in AWS costs all while maintaining a 99.999% uptime client guarantee.
 
@@ -238,6 +238,6 @@ August 2018 - November 2018
 
 Worked with a talented team of React developers on implementing the global design system for Mitsubishi's worldwide auto markets.
 
-### Responsibilities and Achievements
+### Achievements
 
 Responsible for clean, documented and unit tested code.  Created React components that had 100% code coverage on tests, included scoped styles and were published as individual packages to a private package repo for use in the living style guide and CMS for the global network of sites for Mitsubishi Motors. Worked with 
